@@ -70,7 +70,6 @@ html, body {
   }
   
 h1,
-h2,
 h3,
 p {
     margin-bottom: 20px;
@@ -81,7 +80,6 @@ p:last-child {
   }
   
 h1,
-h2,
 h3 {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 500;
@@ -95,7 +93,6 @@ h1 {
     border-bottom: 4px solid #dddddd;
   }
   
-h2,
 h3 {
     font-size: 24px;
   }
@@ -204,7 +201,7 @@ footer {
     clear: both;
   }
   
-h3, h2 {
+h3 {
     padding-bottom: 15px;
     margin-bottom: 15px;
     line-height: 20px;

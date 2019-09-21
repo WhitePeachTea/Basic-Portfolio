@@ -44,6 +44,11 @@ nav a:first-child {
 
 /*body*/
 
+* {
+    box-sizing: border-box;
+  }
+
+
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     font-size: 18px;
@@ -55,10 +60,6 @@ body {
 html, body {
     height: 100%;
     margin: 0;
-  }
-
-* {
-    box-sizing: border-box;
   }
 
 .container {
